@@ -1,0 +1,181 @@
+/* About.css */
+
+#about .container {
+    margin: auto;
+    display: flex;
+    padding: 80px 40px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  
+  #about .lg\:flex-grow {
+    flex-grow: 1;
+  }
+  
+  /* #about .md\:w-1\\/2, #about .lg\:w-full, #about .w-5\\/6 {
+    width: 50%;
+  } */
+  
+  #about .lg\:pr-24 {
+    padding-right: 6rem;
+  }
+  
+  #about .md\:pr-16 {
+    padding-right: 4rem;
+  }
+  
+  #about .flex, #about .inline-flex {
+    display: flex;
+  }
+  
+  #about .flex-col {
+    flex-direction: column;
+  }
+  
+  #about .md\:items-start {
+    align-items: flex-start;
+  }
+  
+  #about .md\:text-left {
+    text-align: left;
+  }
+  
+  #about .mb-16 {
+    margin-bottom: 4rem;
+  }
+  
+  #about .md\:mb-0 {
+    margin-bottom: 0;
+  }
+  
+  #about .items-center {
+    align-items: center;
+  }
+  
+  #about .text-center {
+    text-align: center;
+  }
+  
+  #about .title-font {
+    font-size: 3rem;
+    font-weight: 500;
+    color: white;
+  }
+  
+  #about .sm\:text-4xl {
+    font-size: 2.5rem;
+  }
+  
+  #about .text-3xl {
+    font-size: 1.875rem;
+  }
+  
+  #about .mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+  #about .mb-8 {
+    margin-bottom: 2rem;
+  }
+  
+  #about .leading-relaxed {
+    line-height: 1.75rem;
+  }
+  
+  #about .justify-center {
+    justify-content: center;
+  }
+  
+  #about .text-white {
+    color: white;
+  }
+  
+  #about .bg-green-500 {
+    background-color: #38a169;
+  }
+  
+  #about .py-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  #about .px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  #about .hover\:bg-green-600:hover {
+    background-color: #2f855a;
+  }
+  
+  #about .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  #about .text-lg {
+    font-size: 1.125rem;
+  }
+  
+  #about .ml-4 {
+    margin-left: 1rem;
+  }
+  
+  #about .text-gray-400 {
+    color: #cbd5e0;
+  }
+  
+  #about .bg-gray-800 {
+    background-color: #2d3748;
+  }
+  
+  #about .hover\:bg-gray-700:hover {
+    background-color: #4a5568;
+  }
+  
+  #about .hover\:text-white:hover {
+    color: white;
+  }
+  
+  #about .object-cover {
+    object-fit: cover;
+  }
+  
+  #about .object-center {
+    object-position: center;
+  }
+  .button {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1.5rem;
+    margin: 0.5rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .workWithMe {
+    background-color: #38a169;
+  }
+  
+  .workWithMe:hover {
+    background-color: #2f855a;
+  }
+  
+  .seeMyWork {
+    background-color: #2d3748;
+    color: #cbd5e0;
+  }
+  
+  .seeMyWork:hover {
+    background-color: #4a5568;
+    color: #fff;
+  }
+  .frontPicture{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    order: 2;
+    
+  }
