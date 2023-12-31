@@ -28,3 +28,13 @@ export const projects = [
       link: "https://github.com/AntalZsofia/Portfolio",
     },
   ];
+  export const skills = [
+    "JavaScript",
+    "React",
+    "C#",
+    "SQL",
+    "MongoDB",
+    "HTML",
+    "CSS",
+    "Git",
+  ];

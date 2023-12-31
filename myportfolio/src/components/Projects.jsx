@@ -32,7 +32,7 @@ export default function Projects() {
                     {project.title}
                   </h2>
                   <h1>
-                    technogies: {project.technologies}
+                    technologies: {project.technologies}
                   </h1>
                   <p>{project.description}</p>
                 </div>

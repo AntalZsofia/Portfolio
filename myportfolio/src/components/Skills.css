@@ -1,0 +1,57 @@
+/* Skills.css */
+
+.container {
+    padding: 1.25rem 1.25rem;
+    margin: 0 auto;
+  }
+  
+  .text-center {
+    text-align: center;
+    margin-bottom: 5rem;
+  }
+  
+  .grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  
+  .p-2 {
+    padding: 0.5rem;
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .w-half {
+    width: 50%;
+  }
+  
+  .bg-gray {
+    background-color: #2d3748;
+  }
+  
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  .p-4 {
+    padding: 1rem;
+  }
+  
+  .h-full {
+    height: 100%;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .font-medium {
+    font-weight: 500;
+  }
