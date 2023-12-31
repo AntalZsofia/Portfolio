@@ -13,7 +13,7 @@ export default function Contact() {
       headers: {
         'Accept': 'application/json'
       }
-    }).then(responst => {
+    }).then(response => {
       setIsSubmitted(true);
       event.target.reset()
     }).catch(error => {
