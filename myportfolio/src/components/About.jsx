@@ -17,7 +17,7 @@ export default function About() {
                     </p>
                     <div>
                         <a href="#contact" className="button workWithMe">
-                            Work With Me
+                            Contact Me
                         </a>
                         <a href="#projects" className="button seeMyWork">
                             See My Past Work
