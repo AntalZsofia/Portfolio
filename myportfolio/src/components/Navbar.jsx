@@ -15,13 +15,15 @@ export default function Navbar() {
           <a href="#projects" className="navbar-link">
             Past Work
           </a>
+          </nav>
+          <nav className="navbar-nav">
           <a href="#skills" className="navbar-link">
             Skills
           </a>
         </nav>
-        <a href="#contact" className="navbar-button">
+        <a href="#contact" className="navbar-link">
           Contact Me
-          <p className="navbar-button-icon" />
+          <p className="navbar-link" />
         </a>
       </div>
     </header>

@@ -1,5 +1,5 @@
 .navbar {
-    background-color: gray;
+    background-color: #1c2435;
     position: sticky;
     top: 0;
     z-index: 10;
@@ -9,12 +9,13 @@
     display: flex;
     flex-wrap: wrap;
     padding: 5px;
-    align-items: center;
+    align-items:end;
+    justify-content: space-around;
   }
-  
+
   .navbar-title {
     font-size: medium;
-    color: white;
+    color: rgb(190, 188, 188);
     margin-bottom: 4px;
   }
   
@@ -27,21 +28,3 @@
     color: white;
   }
   
-  .navbar-button {
-    display: inline-flex;
-    align-items: center;
-    background-color: gray;
-    border: none;
-    padding: 1px 3px;
-    border-radius: 3px;
-  }
-  
-  .navbar-button:hover {
-    background-color: gray;
-  }
-  
-  .navbar-button-icon {
-    width: 4px;
-    height: 4px;
-    margin-left: 1px;
-  }

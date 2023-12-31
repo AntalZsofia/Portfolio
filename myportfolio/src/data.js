@@ -37,4 +37,8 @@ export const projects = [
     "HTML",
     "CSS",
     "Git",
+    "Empathy",
+    "Team work",
+    "Problem Solving",
+    "Scrum",
   ];
