@@ -10,7 +10,8 @@
   font-size: 2rem;
     color: #a0aec0;
     font-weight: bold;
-    text-align: center
+    text-align: center;
+    margin-top: 1rem;
 }
 
 .text-center {

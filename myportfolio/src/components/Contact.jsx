@@ -4,6 +4,9 @@ import "./Contact.css"; // Import the CSS file
 export default function Contact() {
   return (
     <section id="contact" className="contact-section">
+        <h2 className="contact-header">Contact Me</h2>
+        <p className="contact-subheader">
+          Have a question or want to work together?</p>
       <div className="contact-container">
           <div className="image-container">
             <img src={Contactme} alt="ContactMe" />
