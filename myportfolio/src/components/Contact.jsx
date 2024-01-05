@@ -15,7 +15,8 @@ export default function Contact() {
       }
     }).then(response => {
       setIsSubmitted(true);
-      event.target.reset()
+      event.target.reset();
+      window.alert('Thank you for your message. I will get back to you soon!');
     }).catch(error => {
       console.log(error)
     });
