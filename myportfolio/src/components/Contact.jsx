@@ -74,7 +74,7 @@ export default function Contact() {
             Submit
           </button>
         </form>
-        {isSubmitted && <p className="success-message">Thank you for your message. I will get back to you soon!</p>}
+       
       </div>
     </section>
   );
