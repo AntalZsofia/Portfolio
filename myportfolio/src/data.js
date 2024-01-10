@@ -1,8 +1,16 @@
 import myLibrary from "./Pictures/mybooks.jpg";
 import eventure from "./Pictures/eventure.jpg";
-import portfolio from "./Pictures/portfolio.jpg";
+import trivia from "./Pictures/triviagamepreview.jpg";
 
 export const projects = [
+  {
+    title: "Trivia Game",
+    technologies: "Express.js, React Native Expo, MongoDB",
+    description:
+      "This is my current project, a trivia game. Choose your category and difficulty or opt for a random quiz. Challenge friends, turn your quiz into a tournament, and see who tops the leaderboard.",
+    image: trivia,
+    link: "https://github.com/AntalZsofia/Portfolio",
+  },
     {
       title: "My Library",
       technologies: "C#, React, SQL",
@@ -18,15 +26,7 @@ export const projects = [
         "This is a website that allows you to create events, and search for events around your area, join them or leave them. It is built using C#, React, and SQL.",
       image: eventure,
       link: "https://github.com/AntalZsofia/Advanced-team-project",
-    },
-    {
-      title: "My Portfolio",
-      technologies: "React, CSS",
-      description:
-        "This is my portfolio website, built using React and CSS.",
-      image: portfolio,
-      link: "https://github.com/AntalZsofia/Portfolio",
-    },
+    }
   ];
   export const skills = [
     "JavaScript",
