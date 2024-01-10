@@ -9,7 +9,7 @@ export const projects = [
     description:
       "This is my current project, a trivia game. Choose your category and difficulty or opt for a random quiz. Challenge friends, turn your quiz into a tournament, and see who tops the leaderboard.",
     image: trivia,
-    link: "https://github.com/AntalZsofia/Portfolio",
+    link: "https://github.com/AntalZsofia/Trivia-Game",
   },
     {
       title: "My Library",
