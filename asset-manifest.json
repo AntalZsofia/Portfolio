@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6b67fb09.css",
-    "main.js": "/Portfolio/static/js/main.b84c5c87.js",
+    "main.js": "/Portfolio/static/js/main.6f287993.js",
     "static/js/787.3503cf78.chunk.js": "/Portfolio/static/js/787.3503cf78.chunk.js",
     "static/media/frontpicture.png": "/Portfolio/static/media/frontpicture.f297c1eb78b6a33de269.png",
     "static/media/mybooks.jpg": "/Portfolio/static/media/mybooks.edcc7fd696f487ee858a.jpg",
-    "static/media/portfolio.jpg": "/Portfolio/static/media/portfolio.fca5826bdab0fc13ba7d.jpg",
     "static/media/eventure.jpg": "/Portfolio/static/media/eventure.29469eb6f20c936600a9.jpg",
+    "static/media/triviagamepreview.jpg": "/Portfolio/static/media/triviagamepreview.37ef57511a0b5511a5a4.jpg",
     "static/media/contactme.png": "/Portfolio/static/media/contactme.41c437836399c26c589b.png",
     "index.html": "/Portfolio/index.html",
     "main.6b67fb09.css.map": "/Portfolio/static/css/main.6b67fb09.css.map",
-    "main.b84c5c87.js.map": "/Portfolio/static/js/main.b84c5c87.js.map",
+    "main.6f287993.js.map": "/Portfolio/static/js/main.6f287993.js.map",
     "787.3503cf78.chunk.js.map": "/Portfolio/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b67fb09.css",
-    "static/js/main.b84c5c87.js"
+    "static/js/main.6f287993.js"
   ]
 }
